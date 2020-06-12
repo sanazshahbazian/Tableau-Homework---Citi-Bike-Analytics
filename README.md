@@ -1,5 +1,8 @@
 # Tableau-Homework---Citi-Bike-Analytics
 
+https://public.tableau.com/profile/sanaz1172#!/vizhome/CitiBikeAnalytics_15918301069300/Dashboard6?publish=yes
+
+
 I created visualizations based on starting locations, gender, subscribers vs customers, and age statistics within the period of 2019 to April 2020 Summary of key findings can be found below:
 70% of riders are men and 26% are female and 5% are unknown.
 The Total Number of Bike Trip is 4809156 which is 361921 has  annual pass and 43026 are customer in 2019 
