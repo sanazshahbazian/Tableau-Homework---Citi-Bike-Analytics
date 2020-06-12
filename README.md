@@ -1,6 +1,6 @@
 # Tableau-Homework---Citi-Bike-Analytics
 
-https://public.tableau.com/profile/sanaz1172#!/vizhome/CitiBikeAnalytics_15918301069300/Dashboard6?publish=yes
+https://public.tableau.com/profile/sanaz1172#!/vizhome/CitiBikeAnalytics_15918301069300/Story1?publish=yes
 
 
 I created visualizations based on starting locations, gender, subscribers vs customers, and age statistics within the period of 2019 to April 2020 Summary of key findings can be found below:
